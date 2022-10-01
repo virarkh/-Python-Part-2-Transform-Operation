@@ -100,17 +100,10 @@ The sorted() function returns a sorted list ascending by default.
 ## Operators, Operands and Expression
 <b>Operators</b> are special symbols in Python that carry out arithmetic or logical computation. The value that the operator operates on is called the <b>operand</b>. And a combination of operators and operands that interpreted to produce some other value is called <b>expression</b>.<br>
 Python divides the operators in the following groups:
-- Arithmetic operators
-- Comparison operators
-- Logical operators
-<br>
-<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/arithmetic.png"/>
-<br>
-<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/comparison.png"/>
-<br>
-<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/logical.png"/>
-<br>
-<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/assignment.png"/>
+- Arithmetic operators <br> <img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/arithmetic.png"/>
+- Comparison operators <br> <img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/comparison.png"/>
+- Logical operators <br> <img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/logical.png"/>
+- Assignment operator <br> <img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/assignment.png"/>
 
 ### Order of Operations in Arithmetic
 The order of operations is a rule that tells the correct sequence of steps for evaluating a math expression. We can remember the order using <b>PEMDAS</b>. <br>
