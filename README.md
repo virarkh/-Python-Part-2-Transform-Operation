@@ -109,7 +109,8 @@ Python divides the operators in the following groups:
 <img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/comparison.png"/>
 <br>
 <img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/logical.png"/>
-
+<br>
+<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/assignment.png"/>
 
 
 
