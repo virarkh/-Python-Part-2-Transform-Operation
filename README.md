@@ -112,8 +112,14 @@ Python divides the operators in the following groups:
 <br>
 <img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/assignment.png"/>
 
-
-
+### Order of Operations in Arithmetic
+The order of operations is a rule that tells the correct sequence of steps for evaluating a math expression. We can remember the order using <b>PEMDAS</b>. <br>
+- P – Parentheses</br>
+- E – Exponentiation</br>
+- M – Multiplication (Multiplication and division have the same precedence)</br>
+- D – Division</br>
+- A – Addition (Addition and subtraction have the same precedence)</br>
+- S – Subtraction</br>
 
 
 
