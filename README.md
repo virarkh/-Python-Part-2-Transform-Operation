@@ -76,8 +76,26 @@ String Literals<br>
 A string literal is where you specify the contents of a string in a program.<br>
 If you need an actual single quote character inside a literal string delimited by single quotes, you can use the backslash character before the single quote, to tell Python not to terminate the string.
 
-
-
+## Operations on List, Set and String
+- <b>len()</b> <br>
+The len() function returns the number of items in an object.
+- <b>min()</b> <br>
+The min() function return item with the lowest value.
+- <b>max()</b> <br>
+The max() function return item with the highest value.
+- <b>merge</b> <br>
+Merge used to combine two values together.
+- <b>replication</b> <br>
+Replication used to repeat value in object by amount of times equivalent to the integer value.
+- <b>range()</b> <br>
+The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number.
+- <b>in</b> <br>
+The in function to check whether an element is present in the passed list or not. Returns true if the element is present in the list otherwise returns false.
+- <b>not in</b> <br>
+The not in function to check whether an element is not present in the passed list or not. Returns true if the element is not present in the list otherwise returns false.
+- <b>Assign value in multiple variable</b> <br>
+- <b>sort()</b> <br>
+The sorted() function returns a sorted list ascending by default.
 
 
 
