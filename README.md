@@ -98,8 +98,17 @@ The not in function to check whether an element is not present in the passed lis
 The sorted() function returns a sorted list ascending by default.
 
 ## Operators, Operands and Expression
-<b>Operators</b> are special symbols in Python that carry out arithmetic or logical computation. The value that the operator operates on is called the <b>operand</b>. And a combination of operators and operands that interpreted to produce some other value is called <b>expression</b>.
-<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/w2.drawio.png">
+<b>Operators</b> are special symbols in Python that carry out arithmetic or logical computation. The value that the operator operates on is called the <b>operand</b>. And a combination of operators and operands that interpreted to produce some other value is called <b>expression</b>.<br>
+Python divides the operators in the following groups:
+- Arithmetic operators
+- Comparison operators
+- Logical operators
+<br>
+<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/arithmetic.png"/>
+<br>
+<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/comparison.png"/>
+<br>
+<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/logical.png"/>
 
 
 
