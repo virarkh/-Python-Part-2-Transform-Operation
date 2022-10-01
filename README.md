@@ -114,6 +114,31 @@ The order of operations is a rule that tells the correct sequence of steps for e
 - A – Addition (Addition and subtraction have the same precedence)</br>
 - S – Subtraction</br>
 
+## Syntax Error and Exception
+### Syntax Errors <br>
+ Syntax errors are mistakes in the use of python language and analogous to spelling or grammer mistakes. Usually, the errors are self-explanatory and docent needs any special attention to fix them. 
+ ```
+ prin("Hello World")
+ 
+ ---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+Input In [15], in <cell line: 1>()
+----> 1 prin("Hello World")
+
+NameError: name 'prin' is not defined
+ ```
+ ### Exception
+Exception error is type of error occurs whenever syntactically correct Python code results in an error.
+```
+10 * (1 / 0)
+
+---------------------------------------------------------------------------
+ZeroDivisionError                         Traceback (most recent call last)
+Input In [9], in <cell line: 1>()
+----> 1 10 * (1 / 0)
+
+ZeroDivisionError: division by zero
+```
 
 
 
