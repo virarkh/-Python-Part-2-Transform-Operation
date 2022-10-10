@@ -139,8 +139,18 @@ Input In [9], in <cell line: 1>()
 
 ZeroDivisionError: division by zero
 ```
-
-
-
-
+## Handling Exception
+In Python, exceptions can be handled using a try statement.
+There are some error that often occur:
+- The Python "ZeroDivisionError: float division by zero" occurs when we try to divide a floating-point number by 0.
+- TypeError is an exception in Python programming language that occurs when the data type of objects in an operation is inappropriate.
+- The Python FileNotFoundError : No such file or directory error is often raised by the os library. This error tells you that you are trying to access a file or folder that does not exist. To fix this error, check that you are referring to the right file or folder in your program.
+A try clause can have any number of except clauses to handle different exceptions, however, only one will be executed in case an exception occurs.
+We can use a tuple of values to specify multiple exceptions in an except clause. Here is an example pseudo code.
+### Many Exception
+You can define as many exception blocks as you want, e.g. if you want to execute a special block of code for a special kind of error.
+### Else
+In some situations, you might want to run a certain block of code if the code block inside try ran without any errors. For these cases, you can use the optional else keyword with the try statement.
+### Finally
+The try statement in Python can have an optional finally clause. The finally block, if specified, will be executed regardless if the try block raises an error or not.
 
