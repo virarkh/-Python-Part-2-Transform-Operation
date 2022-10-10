@@ -154,3 +154,5 @@ In some situations, you might want to run a certain block of code if the code bl
 ### Finally
 The try statement in Python can have an optional finally clause. The finally block, if specified, will be executed regardless if the try block raises an error or not.
 
+## Input ad Output Operations
+<img src="https://github.com/virarkh/Python-Part-2_Transform-Operation/blob/master/image/File%20Handling.png"/>
